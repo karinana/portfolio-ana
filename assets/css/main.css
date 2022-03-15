@@ -4190,7 +4190,7 @@ input, select, textarea {
 			right: 0;
 			text-align: right;
 			top: 0;
-			vertical-align: middle;
+			/* vertical-align: middle; */
 			width: 7em;
 		}
 
@@ -4459,7 +4459,7 @@ input, select, textarea {
 
 		#footer .copyright {
 			/* color: #999; */
-			color:#363343
+			color:#363343;
 			font-size: 0.8em;
 			text-align: center;
 		}
@@ -4483,3 +4483,8 @@ input, select, textarea {
 			}
 
 		}
+
+
+
+		
+	
